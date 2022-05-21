@@ -9,3 +9,4 @@ python3 webbruter.py -u http://target.com/ -w common.txt -t 10 -v
 -t = thread<br>
 -v verbose<br>
 
+![Screenshot](Ekrangörüntüsü.png)
