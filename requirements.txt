@@ -1,9 +1,3 @@
 requests
 argparse
-urllib.parse
 urllib3
-threading
-queue
-sys
-time
-os
