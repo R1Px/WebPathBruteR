@@ -1,7 +1,7 @@
 # WebPathBruteR
-Yeni Hazırladığım Web Dizin Tarayıcısı...
+My New Web Path Scanner Project...
 
-# Kullanımı
+# How To Use
 pip install -r requirements.txt<br>
 python3 webbruter.py -u http://target.com/ -w common.txt -t 10 -v
 
