@@ -27,7 +27,9 @@ BackgroundDefault = "\033[49m"
 BackgroundBlack = "\033[40m"
 BackgroundYellow = "\033[43m"
 
+time.sleep(1.0)
 os.system("cls")
+os.system("clear")
 time.sleep(1.0)
 print(MAVI + """
                                                                                                                                                                                                   
