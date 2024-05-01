@@ -1,5 +1,5 @@
 # WebPathBruteR
-My New Web Path Scanner Project...
+My New Web Path Scanner Project... (Use on ubuntu, kali)
 
 # How To Use
 pip install -r requirements.txt<br>
